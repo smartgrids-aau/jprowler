@@ -96,7 +96,7 @@ See `TestBroadcastNode.java` for a complete example.
   *Proceedings of the IEEE Aerospace Conference* 3:1339–1346, March 2003.
 
 - H. Adam, W. Elmenreich, C. Bettstetter, and S. M. Senouci,
-  "CoRe-MAC: A MAC-protocol for cooperative relaying in wireless networks,"
+  "[CoRe-MAC: A MAC-protocol for cooperative relaying in wireless networks](http://mobile.aau.at/publications/adam-2009-globecom-core-mac.pdf),"
   *Proceedings of the 2009 IEEE Global Communication Conference (Globecom)*, Honolulu, Hawaii, 2009.
 
 ## License
@@ -115,6 +115,6 @@ See [LICENSE](LICENSE) for full text.
 JProwler was created by Gyorgy Balogh, Gabor Pap, and Miklos Maroti at the
 Institute for Software Integrated Systems, Vanderbilt University.
 
-This repository is maintained by [Wilfried Elmenreich](https://www.simonlabs.com/)
+This repository is maintained by [Wilfried Elmenreich](https://mobile.aau.at/~welmenre/)
 at Alpen-Adria-Universität Klagenfurt, who uses JProwler in the course
 *700.291 VI Simulation of Networked Systems*.
